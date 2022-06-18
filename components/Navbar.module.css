@@ -1,0 +1,9 @@
+.navContainer{
+    display: flex;
+    justify-content: flex-end !important;
+    background: #7700fc;
+    padding: 0px 20px;
+}
+.navItem{
+    color: #fff;
+}
